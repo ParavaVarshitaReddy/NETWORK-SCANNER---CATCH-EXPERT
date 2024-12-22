@@ -1,0 +1,8 @@
+
+ipaddress
+socket
+scapy
+nmap
+requests
+manuf
+tkinter
