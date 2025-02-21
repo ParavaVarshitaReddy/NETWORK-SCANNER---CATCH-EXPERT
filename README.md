@@ -84,3 +84,8 @@ Special thanks to the developers of:
 
 "Catch the vulnerabilities, be the expert!"
 
+---
+##License
+
+This project is open-source under the MIT License.
+
